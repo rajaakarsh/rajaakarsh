@@ -79,9 +79,14 @@ Currently focused on the **MERN Stack**, improving my **DSA & C++** skills, and 
 
 </div>
 
+<p align="center">
+  <img src="https://count.getloli.com/@:rajaakarshj?theme=rule34" alt="rajaakarsh" />
+</p>
+
 <div align="center">
   <a href="https://postimg.cc/XBBCDcJP">
     <img src="https://i.postimg.cc/prqJrstP/20260612-025300.jpg" width="100%" alt="Coding Quotes"/>
   </a>
 </div>
+
 
