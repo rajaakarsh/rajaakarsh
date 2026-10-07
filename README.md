@@ -52,18 +52,25 @@ Currently focused on the **MERN Stack**, improving my **DSA & C++** skills, and 
 
 
 <div align="center">
-  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rajaakarsh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rajaakarsh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajaakarsh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+# 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=rajaakarsh&theme=dark&hide_border=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rajaakarsh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 ---
+
 [![](https://komarev.com/ghpvc/?username=rajaakarsh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
-
 
 ## connect
 
